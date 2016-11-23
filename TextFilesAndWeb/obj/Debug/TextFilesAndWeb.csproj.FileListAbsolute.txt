@@ -1,0 +1,6 @@
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\TextFilesAndWeb\TextFilesAndWeb\bin\Debug\TextFilesAndWeb.exe.config
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\TextFilesAndWeb\TextFilesAndWeb\bin\Debug\TextFilesAndWeb.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\TextFilesAndWeb\TextFilesAndWeb\bin\Debug\TextFilesAndWeb.pdb
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\TextFilesAndWeb\TextFilesAndWeb\obj\Debug\TextFilesAndWeb.csprojResolveAssemblyReference.cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\TextFilesAndWeb\TextFilesAndWeb\obj\Debug\TextFilesAndWeb.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\TextFilesAndWeb\TextFilesAndWeb\obj\Debug\TextFilesAndWeb.pdb
